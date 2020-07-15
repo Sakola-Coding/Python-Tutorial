@@ -1,6 +1,8 @@
 # Menggunakan IDE trinket.io
+# Chatbot level 0
+# Author: @rintoprie
 
-print("ask something")
+print("Silakan bertanya")
 while True:
   say = input()
   if say == "halo":
